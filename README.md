@@ -2,7 +2,7 @@
 
 Simple terminal-based videogame management system using postgresql and c++ with pqxxqlib.
 
-## System Map (To Do...)
+## System Navigation Map
 <img src="https://github.com/artHub-j/simple-videogame-management-system/assets/92806890/6fce83a5-8f7c-4269-9379-fbe1ecbce95e" width="1000" />
 
 ## SQL table diagram
