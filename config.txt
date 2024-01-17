@@ -1,0 +1,5 @@
+DBNAME=yourdbname
+USER=youruser
+PASSWORD=yourpasswrd
+HOSTADDR=yourhost
+PORT=yourport
