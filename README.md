@@ -1,6 +1,6 @@
-# simple-videogame-management-system
+# videogame-management-system
 
-Simple terminal-based videogame management system using postgresql and c++ with pqxxlib. 
+Terminal-based videogame management system using postgresql and c++ with pqxxlib. 
 
 ## System Navigation Map
 <table border="6">
