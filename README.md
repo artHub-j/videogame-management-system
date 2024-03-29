@@ -25,25 +25,25 @@ Simple terminal-based videogame management system using postgresql and c++ with 
 
 ## Authors
 
-<table border="6">
+<table border="2">
   <tr>
     <td align="center">
       <a href="https://github.com/artHub-j">
-        <img src="https://github.com/CulturaLink/culturalink-main/assets/92806890/416f28b8-f634-4ce7-ad76-b383863d5774" width="75px;" alt="artHub-j"/><br>
+        <img src="https://github.com/artHub-j/simple-videogame-management-system/assets/92806890/d7dd8ef7-4e46-4cd7-91e1-531352a3a62c" width="75px;" alt="artHub-j"/><br>
         <sub><b>@artHub-j</b></sub>
       </a><br/>
       <sub>Arturo Aragón</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/3R1C2001">
-        <img src="https://github.com/CulturaLink/culturalink-main/assets/92806890/fce8b961-66e2-415a-bb9d-efb87662b96e" width="75px;" alt="3R1C2001"/><br>
+        <img src="https://github.com/artHub-j/simple-videogame-management-system/assets/92806890/b0cc4dc3-3faa-4bdc-8cc4-e9bc866c4669" width="75px;" alt="3R1C2001"/><br>
         <sub><b>@3R1C2001</b></sub>
       </a><br/>
       <sub>Eric Álvarez</sub>
     </td> <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
     <td align="center">
       <a href="https://github.com/nghaffar21">
-        <img src="https://github.com/CulturaLink/culturalink-main/assets/92806890/91414992-49df-4ccb-98ef-36e19d8fca6d" width="75px;" alt="nghaffar21"/><br>
+        <img src="https://github.com/artHub-j/simple-videogame-management-system/assets/92806890/8aaad011-0da1-4d8e-9b40-6f5bc9830f38" width="75px;" alt="nghaffar21"/><br>
         <sub><b>@nghaffar21</b></sub>
       </a><br/>
       <sub>Nima Ghaffarzadeh</sub>
